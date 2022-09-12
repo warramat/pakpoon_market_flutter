@@ -131,7 +131,7 @@ class MaketMall1 extends StatelessWidget {
                       ),
                     ),
                     Text(
-                      "กระจกอลูมิเนียม",
+                      "กระจกอลูมิเนียมมมมม",
                       style: GoogleFonts.kanit(fontSize: 12),
                     )
                   ]),
